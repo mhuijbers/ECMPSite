@@ -23,7 +23,7 @@
   <div class="tst">
     
   Testing dit is een test dat we gaan proberen
-  vanuit de visualstudio idex
+  vanuit de visualstudio ide
       
   </div>
   </div>
