@@ -18,7 +18,12 @@
 
   </head>
   <body>
-  <div class="tst">
-  Testing dit is een test dat we gaan proberen 
+  <div class="row">
+    <div class="col s4 m4">
+      <div class="tst">
+    
+      Testing dit is een test dat we gaan proberen 
+      </div>
+    </div>
   </div>
 </body>
